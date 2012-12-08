@@ -6,3 +6,7 @@ Authors:
  * Chris Adams
  * Daniel Greenfeld
  * Diederik van der Boor
+ * Jeff Ammons
+ * Micky Hulse
+ * Renyi Khor
+ * Shabda Raaj
